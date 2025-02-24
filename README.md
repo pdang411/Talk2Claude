@@ -10,3 +10,7 @@ Must get API key from Anthropic please edit .env file
 
 ***ANTHROPIC_API_KEY = "sk-ant-api03-rOd2ONpfPFifY2d44ygcD3-nyCV7oTKJsvPmaBKkZPiCJmjJdSDh6XXjo8vhV0CRZXL54rYgOD0bzXEQ8eWpEg-XXXXXXXX"***
 
+create virtual-venv file in your vscode terminal or pycharm
+
+for mac https://www.youtube.com/watch?v=Kg1Yvry_Ydk
+
