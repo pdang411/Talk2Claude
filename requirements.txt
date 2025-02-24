@@ -1,0 +1,7 @@
+python-dotenv
+pygame
+pyaudio
+anthropic
+datetime
+gtts
+speechrecognition
